@@ -3,7 +3,7 @@
 Personal portfolio website hosted on GitHub Pages.
 
 ## 🌐 Live Site
-→ [https://raunak-singh.github.io](https://your-username.github.io)
+→ [https://raunakra.github.io/MyPortfolio/](https://raunakra.github.io/MyPortfolio/)
 
 ## 🛠 Tech
 - Pure HTML5 / CSS3 / Vanilla JS
